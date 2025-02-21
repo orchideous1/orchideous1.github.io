@@ -2,13 +2,13 @@
 #  Icons from <https://fontawesome.com/>
 
 platforms:
-  - type: Twitter
-    icon: "fa-brands fa-square-x-twitter"
-    link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
+  - type: bilibili
+    icon: "fa-brands fa-bilibili"
+    link: "https://space.bilibili.com/429542147?spm_id_from=333.1007.0.0"
 
-  - type: Facebook
-    icon: "fab fa-facebook-square"
-    link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
+  - type: zhihu
+    icon: "fa-brands fa-zhihu"
+    link: "https://www.zhihu.com/people/015-83-19"
 
   - type: Telegram
     icon: "fab fa-telegram"

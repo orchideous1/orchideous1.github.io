@@ -16,14 +16,14 @@ timezone: Asia/Shanghai
 
 title: Christopher Lin's Blog # the main title
 
-tagline: So we beat on # it will display as the subtitle
+tagline: So we beat on 耶耶耶# it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   我的庸俗特别浓厚，费尽周折才看清楚，世界是世界，自己是自己。
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://github.com/orchideous1/orchideous1.github.io"
+url: "https://orchideous1.github.io"
 
 github:
   username: orchideous1 # change to your GitHub username
