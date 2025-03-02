@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Christopher Lin's Blog # the main title
 
-tagline: So we beat on 耶耶耶# it will display as the subtitle
+tagline: 我活在这世上，无非想要明白一些道理，遇见一些有趣的人 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   我的庸俗特别浓厚，费尽周折才看清楚，世界是世界，自己是自己。
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "https://www.keaitupian.cn/cjpic/frombd/0/253/525479869/4037738886.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
